@@ -2,7 +2,7 @@
 
 **Last updated: August 7, 2026**
 
-This Privacy Policy describes how Insquare ("we", "us", or "our") collects, uses, and shares information when you use our mobile application **Ludo Go** (the "App"), available on Google Play and the App Store.
+This Privacy Policy describes how Oqira ("we", "us", or "our") collects, uses, and shares information when you use our mobile application **Ludo Go** (the "App"), available on Google Play and the App Store.
 
 By downloading or using Ludo Go, you agree to the collection and use of information as described in this policy.
 
@@ -110,9 +110,9 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-**Insquare**
-📧 [nceave@gmail.com]
+**Oqira**
+📧 [contact@oqira.in]
 
 ---
 
-*This privacy policy applies to the Ludo Go mobile application (Package ID: in.insquare.ludogo) on Android and iOS platforms.*
+*This privacy policy applies to the Ludo Go mobile application (Package ID: in.oqira.ludogo) on Android and iOS platforms.*
